@@ -100,7 +100,7 @@ SQL-style aggregations (grouping, filtering, metrics) were implemented using Pyt
 
 ## 📁 Project Structure
 
-📦 ott-viewer-retention-analysis
+📦 ott-viewer-retention-analysis/
 ┣ 📄 ott_viewer_dropoff_retention_us_v1.0.csv
 ┣ 📓 analysis_notebook.ipynb
 ┣ 📄 Viewer_Retention_Analysis_in_OTT_Platforms_Report.pdf
