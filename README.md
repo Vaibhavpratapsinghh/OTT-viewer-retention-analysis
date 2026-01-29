@@ -1,6 +1,6 @@
 # 🎬 Viewer Retention Analysis in OTT Platforms
 
-![Project Badge](https://img.shields.io/badge/Winter%20Consulting-IITG%20C%26A-blue?style=for-the-badge)
+![Project Badge](https://img.shields.io/badge/Winter%20Consulting-2025-blue)
 
 ## 🎓 Program Information
 
